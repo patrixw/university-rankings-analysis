@@ -1,6 +1,7 @@
 University Rankings Analysis
 This project analyzes the global rankings of universities using a dataset with over 12,000 records. The analysis includes preprocessing, exploratory data analysis (EDA), and visualizations to uncover trends and insights.
 
+
 Project Overview
 The dataset contains the following columns:
 
